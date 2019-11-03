@@ -1,0 +1,571 @@
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\E-MODUL BRSL\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csprojResolveAssemblyReference.cache
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\E-MODUL BRSL 6\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csprojResolveAssemblyReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 6 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csprojResolveAssemblyReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 6.1 - Copy\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csprojResolveAssemblyReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 62\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csprojResolveAssemblyReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 63\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 63 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 64 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 65 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 66 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 67 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 68 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.popUp.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 69 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.popUp.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 70 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.popUp.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+E:\Proyek Skripsi\E-MODUL BRSL 71 Edit\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+D:\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.config
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.FOXITREADERLib.dll
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\Interop.WMPLib.dll
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.FOXITREADERLib.dll
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\AxInterop.WMPLib.dll
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.ResolveComReference.cache
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.pdb
+D:\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe.manifest
+D:\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.application
+D:\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.exe
+D:\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\E-MODUL BRSL.pdb
+D:\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.FOXITREADERLib.dll
+D:\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\Interop.WMPLib.dll
+D:\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.FOXITREADERLib.dll
+D:\E-MODUL BRSL\E-MODUL BRSL\bin\Debug\AxInterop.WMPLib.dll
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Beranda.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisbs.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.kuisCC.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.E_Kuis.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FlasScreen.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormBola.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormKerucut.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.FormTabung.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Musik.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.PesanKeluar.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.popUp.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Properties.Resources.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.TempatGudang.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E_MODUL_BRSL.Video.resources
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csproj.GenerateResource.Cache
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.exe.manifest
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.application
+D:\E-MODUL BRSL\E-MODUL BRSL\obj\Debug\E-MODUL BRSL.csprojResolveAssemblyReference.cache
